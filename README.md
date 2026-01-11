@@ -1,25 +1,19 @@
 # 👋 Olá, eu sou Leticya Anielle!
 
-🎯 **Foco atual:** Java | Python | Data Engineering | Desenvolvimento Backend  
+🎯 **Foco atual:** Data Analyst | Python | Data Engineering | Java | SQL 
 
-💻 **Objetivo:** Construir minha carreira como **Data Engineer** ou **Desenvolvedora Java**, explorando tecnologias de backend, bancos de dados e soluções em nuvem.
+💻 **Objetivo:** Construir minha carreira como **Data Engineer** , explorando assuntos como, bancos de dados,  soluções em nuvem, BI, Estatisticas, Automações e IA.
 
 ---
 
 ## 🚀 Tecnologias e Ferramentas que estou aprendendo:
 
-- 🧑‍💻 **Linguagens:** Java, Python.  
+- 🧑‍💻 **Linguagens:** SQL, Python, DAX, Java, R.  
 - ☁️ **Cloud & DevOps:** Fundamentos de Computação em Nuvem, DevOps.  
-- 🛠️ **Ferramentas:** GitHub Copilot, IntelliJ IDEA, Eclipse.
-- 🤖 **Outros:** Engenharia de Prompts, Git, Databricks.
+- 🛠️ **Ferramentas:** GitHub Copilot, Power Query, IntelliJ IDEA, Databricks, Eclipse.
+- 🤖 **Outros:** Engenharia de Prompts, Git,.
 
 ---
-
-## 📚 Minhas Trilhas de Estudo Recentes:
-
-- **Bootcamp Java & IA - NTT DATA + DIO**  
-- **Projetos práticos com foco em backend e dados**
-
 ---
 
 ## 📈 GitHub Stats
