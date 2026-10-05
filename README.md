@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Leticya Anielle!
 
-🎯 **Foco atual:** Data Analyst | Python | Data Engineering | Java | SQL  
+🎯 **Foco atual:** Data Analyst | Python | Data Engineering | Cientista de Dados | SQL  
 
 💻 **Objetivo:** Construir minha carreira como **Data Engineer**, explorando bancos de dados, soluções em nuvem, BI, estatística, automações e IA.
 
