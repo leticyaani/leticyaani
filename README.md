@@ -27,15 +27,6 @@
 - 🧹 Tratamento e modelagem de dados para analytics e IA
 
 ---
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leticyaani&show_icons=true&theme=neon&hide=contribs,prs)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leticyaani&layout=compact&theme=neon)
-
----
-
 ## 🌐 Onde me encontrar
 
 <p align="left">
